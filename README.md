@@ -1,21 +1,30 @@
-# Catacomb-Crawlers-
+# Cat-Owner-Simulator-
 This is the repository for my GDM VI Final Project. All updates and progress relating to my curriculum will be posted and updated here. 
-Catacombs Crawlers is a Fantasy/Mideval Rogue-Like where the Player pilots the vessels of the various ressurected adventurers brought back to life by the Great Lich. As commanded by your master, you control these enthralled adventurers to do the Lich's bidding by entering & challenging the various dungeons which hold the artifacts necessary to unseal the Lich's true power. If the adventurer falls, no worries, there's always another fallen soldier who can be brought back...
+Cat Owner Simulator (COS) is a game where you adopt a cat and manage your daily life to make sure you can provide only the best to your new furry friend!
 
 /////////////////////////////////////
 DEV LOG
 /////////////////////////////////////
 2-18-25: Repository basis established. All necessary folders for future resources are built with placeholders describing their purpose.
+3-29-26: Project shifted from Catacomb Crawlers to Cat Owner Simulator.
 
 /////////////////////////////////////
 Milestones & Progress
 /////////////////////////////////////
-*None available: Project just began!
+Asset Procurement>
+-Sprite Development: INCOMPLETE
+-Enviromental Artwork: INCOMPLETE
+Game Design>
+-House Design: INCOMPLETE
+-Interactables: INCOMPLETE
+-Scripting: INCOMPLETE
+-Cat Behavior: INCOMPLETE
+-Time System: INCOMPLETE
 
 /////////////////////////////////////
 Challenges & Solutions
 /////////////////////////////////////
-None available: Project just began!
+Sprite Procurement: I am lacking in graphic design, but as a solo project I need to do the best I can.
 
 /////////////////////////////////////
 Support & Outside Contributions
@@ -25,4 +34,4 @@ None available: Project just began!
 /////////////////////////////////////
 Upcoming Updates
 /////////////////////////////////////
-Week 6: Addition of GDD & MVP documentation to repository. Preliminary concepts & gameplay to be established & recorded. Feedback be received & future implementation for future third-party commenting. 
+Week 11: I plan to focus on building of of the core design for the game. All rooms of the house and time passage is expected to be built and complete.
