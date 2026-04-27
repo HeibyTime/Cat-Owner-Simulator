@@ -16,7 +16,7 @@ Cat Owner Simulator (COS) is a game where you adopt a cat and manage your daily 
 Asset Procurement>
 - Sprite Development: INCOMPLETE
 - Enviromental Artwork: INCOMPLETE
-Game Design>
+Game Design>  
 - House Design: INCOMPLETE
 - Interactables: INCOMPLETE
 - Scripting: INCOMPLETE
