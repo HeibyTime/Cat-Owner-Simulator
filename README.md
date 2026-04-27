@@ -7,22 +7,25 @@ Cat Owner Simulator (COS) is a game where you adopt a cat and manage your daily 
 //////////////////////////////////////////////////////////////////////////
 
 The player only needs their mouse inputs to interact with this game. To interact with objects around the house, click on said items to view possible interactions. Click the button for the option you would like from the options that are then listed for said object.  
-The goal is to ensure
+The goal is to ensure that you can properly manage your available energy and money to be able to successfully care for your cat by maintaining its Hunger, Social, and Hygiene stats through various interactions you can perform for your cat. 
 
 //////////////////////////////////////////////////////////////////////////
 ## Milestones & Progress
 //////////////////////////////////////////////////////////////////////////
 
 Asset Procurement>
-- Sprite Development: INCOMPLETE
-- Enviromental Artwork: INCOMPLETE
+- Sprite Development: IN PROGRESS
+- Enviromental Artwork: IN PROGRESS
   
 Game Design>  
-- House Design: INCOMPLETE
-- Interactables: INCOMPLETE
-- Scripting: INCOMPLETE
-- Cat Behavior: INCOMPLETE
-- Time System: INCOMPLETE
+- House Design: COMPLETE
+- Interactables: IN PROGRESS
+- Scripting: IN PROGRESS
+- Cat Behavior Types: INCOMPLETE
+- Time System: COMPLETE
+- Audio & SFX: INCOMPLETE
+- Game Menus: INCOMPLETE
+- Save System: INCOMPLETE
 
 //////////////////////////////////////////////////////////////////////////
 ## Challenges & Solutions
