@@ -28,5 +28,7 @@ Game Design>
 - Save System: INCOMPLETE
 
 //////////////////////////////////////////////////////////////////////////
-## Challenges & Solutions
+## Development Notes
 //////////////////////////////////////////////////////////////////////////
+
+This project is currently behind schedule for its completion. Progress is to continue after the conclusion of this course. Updates will be posted at a later date when more information is available. 
