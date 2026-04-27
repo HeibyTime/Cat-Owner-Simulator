@@ -33,6 +33,8 @@ Game Design>
 
 This project is currently behind schedule for its completion. Progress is to continue after the conclusion of this course. Updates will be posted at a later date when more information is available. 
 
+In this current state, the Unity project portion of this game is not synced with this repository. There has been issues getting my GitHub repositories to sync from my desktop. 
+
 //////////////////////////////////////////////////////////////////////////
 ## Early Progress
 //////////////////////////////////////////////////////////////////////////
