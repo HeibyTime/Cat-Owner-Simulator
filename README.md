@@ -6,7 +6,8 @@ Cat Owner Simulator (COS) is a game where you adopt a cat and manage your daily 
 ## Controls
 //////////////////////////////////////////////////////////////////////////
 
-The player only needs their mouse inputs to interact with this game. To interact with objects around the house, click on said items to view possible interactions. Click the button for the option you would like from the options that are then listed for said object.  The goal is to ensure
+The player only needs their mouse inputs to interact with this game. To interact with objects around the house, click on said items to view possible interactions. Click the button for the option you would like from the options that are then listed for said object.
+The goal is to ensure
 
 //////////////////////////////////////////////////////////////////////////
 ## Milestones & Progress
