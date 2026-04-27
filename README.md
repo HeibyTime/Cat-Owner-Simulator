@@ -3,11 +3,10 @@ This is the repository for my GDM VI Final Project. All updates and progress rel
 Cat Owner Simulator (COS) is a game where you adopt a cat and manage your daily life to make sure you can provide only the best to your new furry friend!
 
 //////////////////////////////////////////////////////////////////////////
-## DEV LOG
+## Controls
 //////////////////////////////////////////////////////////////////////////
 
-2-18-25: Repository basis established. All necessary folders for future resources are built with placeholders describing their purpose.
-3-29-26: Project shifted from Catacomb Crawlers to Cat Owner Simulator.
+The player only needs their mouse inputs to interact with this game. To interact with objects around the house, click on said items to view possible interactions. Click the button for the option you would like from the options that are then listed for said object.  The goal is to ensure
 
 //////////////////////////////////////////////////////////////////////////
 ## Milestones & Progress
