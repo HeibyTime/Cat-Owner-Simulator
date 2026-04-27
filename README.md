@@ -36,6 +36,6 @@ This project is currently behind schedule for its completion. Progress is to con
 //////////////////////////////////////////////////////////////////////////
 ## Early Progress
 //////////////////////////////////////////////////////////////////////////
-
+src/CatOwnerSimulatorEarlySS.png
 Early WIP Living Room:
-
+![alt text](src/CatOwnerSimulatorEarlySS.png "Living Room SS")
